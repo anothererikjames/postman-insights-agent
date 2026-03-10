@@ -59,6 +59,8 @@ spec:
         - run
         - --discovery-mode
         - --debug
+        - --include-namespaces
+        - default
         env:
         - name: POSTMAN_INSIGHTS_CLUSTER_NAME
           value: "acme-platform"
