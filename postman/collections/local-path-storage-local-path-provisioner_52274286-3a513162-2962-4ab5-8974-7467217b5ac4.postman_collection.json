@@ -1,0 +1,9 @@
+{
+  "info": {
+    "_postman_id": "3a513162-2962-4ab5-8974-7467217b5ac4",
+    "name": "local-path-storage/local-path-provisioner",
+    "description": "This collection was auto-generated via the API Catalog Onboarding process.",
+    "schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+  },
+  "item": []
+}
